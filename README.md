@@ -115,3 +115,9 @@ The following tools and technologies were used for the development and execution
 ---
 
 This project showcases how machine learning can be applied to solve practical problems efficiently. The step-by-step approach ensures reproducibility and provides a foundation for more advanced applications in NLP.
+
+---
+
+##OUTPUT OF THE TASK
+
+![image](https://github.com/user-attachments/assets/0505eb75-660a-4061-8e0c-bc1be2728e55)
