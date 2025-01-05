@@ -118,6 +118,6 @@ This project showcases how machine learning can be applied to solve practical pr
 
 ---
 
-##OUTPUT OF THE TASK
+## OUTPUT OF THE TASK
 
 ![image](https://github.com/user-attachments/assets/0505eb75-660a-4061-8e0c-bc1be2728e55)
